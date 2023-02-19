@@ -3,3 +3,13 @@ C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с язы�
 C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfoInputs.cache
 C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfo.cs
 C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\bin\Debug\net6.0\Ex6.exe
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\bin\Debug\net6.0\Ex6.deps.json
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\bin\Debug\net6.0\Ex6.runtimeconfig.json
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\bin\Debug\net6.0\Ex6.dll
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\bin\Debug\net6.0\Ex6.pdb
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\Ex6.dll
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\refint\Ex6.dll
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\Ex6.pdb
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\Ex6.genruntimeconfig.cache
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар1\HomeWork1\Ex6\obj\Debug\net6.0\ref\Ex6.dll
